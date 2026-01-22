@@ -28,6 +28,34 @@ Foi desenvolvido em ambiente local como parte do processo de aprendizagem de pro
 
 ## 📂 Estrutura do Projeto
 
+rcm-lords-php-store/
+│
+├── index.php              # Página inicial
+├── login.php              # Login de utilizador
+├── register.php           # Registo de utilizador
+├── logout.php             # Logout (destrói sessão)
+├── profile.php            # Área protegida do utilizador
+├── shop.php               # Página da loja
+├── cart.php               # Carrinho de compras
+├── checkout.php           # Checkout
+├── admin.php              # Área administrativa
+│
+├── includes/              # Ficheiros reutilizáveis
+│   ├── config.php         # Configuração da BD e sessões
+│   ├── header.php         # Cabeçalho comum
+│   └── footer.php         # Rodapé comum
+│
+├── css/
+│   └── styles.css         # Estilos do projeto
+│
+├── images/                # Imagens do site/produtos
+│   └── (todas as imagens)
+│
+├── database/
+│   └── rcm_lords.sql      # Base de dados MySQL
+│
+└── README.md              # Documentação do projeto
+
 
 
 
