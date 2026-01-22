@@ -28,6 +28,6 @@ Foi desenvolvido em ambiente local como parte do processo de aprendizagem de pro
 
 ## 📂 Estrutura do Projeto
 
-/index.php /login.php /register.php /logout.php /profile.php /shop.php /cart.php /checkout.php /admin.php /includes/config.php /includes/header.php /includes/footer.php /css/styles.css /images/ /database/rcm_lords.sql /README.md
+
 
 
