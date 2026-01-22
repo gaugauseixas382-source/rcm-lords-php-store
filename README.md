@@ -26,35 +26,6 @@ Foi desenvolvido em ambiente local como parte do processo de aprendizagem de pro
 - CSS3
 - XAMPP (ambiente local)
 
-## 📂 Estrutura do Projeto
-
-# RCM Lords – PHP Store
-
-Projeto de uma loja online desenvolvido em *PHP* com ligação a *MySQL*, criado em ambiente local como parte do processo de aprendizagem de desenvolvimento backend.
-
----
-
-## ⚙️ Funcionalidades
-
-- Registo de utilizadores  
-- Login e logout com sessões  
-- Área de perfil protegida  
-- Loja com listagem de produtos  
-- Carrinho de compras  
-- Processo de checkout  
-- Área administrativa  
-- Ligação à base de dados MySQL  
-
----
-
-## 🛠️ Tecnologias Utilizadas
-
-- PHP  
-- MySQL  
-- HTML5  
-- CSS3  
-- XAMPP (ambiente local)
--   
 ## ▶️ Como Executar o Projeto
 
 1. Instalar o XAMPP  
