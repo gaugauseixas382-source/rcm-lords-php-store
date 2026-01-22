@@ -55,13 +55,15 @@ Projeto de uma loja online desenvolvido em *PHP* com ligação a *MySQL*, criado
 - CSS3  
 - XAMPP (ambiente local)
 -   
-Como Executar o Projeto
-	1.	Instalar o XAMPP
-	2.	Colocar o projeto dentro da pasta htdocs
-	3.	Iniciar Apache e MySQL
-	4.	Importar o ficheiro database/rcm_lords.sql no phpMyAdmin
-	5.	Ajustar as credenciais da base de dados no ficheiro includes/config.php
-	6.	Aceder ao projeto no browser: http://localhost/rcm-lords-php-store/
+## ▶️ Como Executar o Projeto
+
+1. Instalar o XAMPP  
+2. Colocar o projeto dentro da pasta `htdocs`  
+3. Iniciar os serviços **Apache** e **MySQL**  
+4. Importar o ficheiro `database/rcm_lords.sql` no **phpMyAdmin**  
+5. Ajustar as credenciais da base de dados no ficheiro `includes/config.php`  
+6. Aceder ao projeto no browser:  
+   `http://localhost/rcm-lords-php-store/`
 ---
 
 ## 📁 Estrutura do Projeto
